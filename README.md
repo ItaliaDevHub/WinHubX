@@ -1,36 +1,39 @@
 # WinHubX
 
-## Introduction 🌟
-WinHubX was born from the original idea of **mrnico98**, a talented programmer who created a versatile tool aimed at optimizing and managing Windows systems. With his vision and expertise, an initially promising solution was developed, laying the groundwork for future improvements.
+## Introduzione 🌟
+WinHubX nasce dall'idea originale di **mrnico98**, un talentuoso programmatore che ha creato uno strumento versatile pensato per ottimizzare e gestire i sistemi Windows. Con la sua visione e competenza, è stato sviluppato inizialmente una soluzione promettente che ha gettato le basi per future evoluzioni.
 
-Thanks to the support and collaboration of **LightYagami**, this idea evolved into an open-source community project. This evolution has allowed us to combine our strengths and resources, making WinHubX an even more powerful and valuable tool for users around the world. Together, we strive to create a collaborative environment where contributions are welcomed, and innovation thrives. 🚀
+Tuttavia, poiché il progetto è rimasto datato nel tempo e supportato solo nella versione LTS (Long Term Support), si è deciso di avviare il processo di miglioramento attivo. A partire da oggi, il progetto passa ufficialmente sotto la gestione del [**ItaliaDevNetwork**](https://t.me/ItaliaDevNetwork), una comunità di sviluppatori italiani, con l’obiettivo di rafforzare ulteriormente la sua evoluzione e renderlo uno strumento ancora più potente.
+
+Grazie al supporto e alla collaborazione di **LightYagami**, questa idea è evoluta in un progetto open-source gestito dalla comunità. Unendo le forze e le risorse, WinHubX diventa una soluzione sempre più utile per gli utenti di tutto il mondo. Insieme, ci impegniamo a creare un ambiente collaborativo dove i contributi sono benvenuti e l'innovazione prospera. 🚀
 
 ## Badges 🏅
-![GitHub Issues](https://img.shields.io/github/issues/Italian-Developer/WinHubX)
-![GitHub Forks](https://img.shields.io/github/forks/Italian-Developer/WinHubX)
-![GitHub Stars](https://img.shields.io/github/stars/Italian-Developer/WinHubX)
+![GitHub Issues](https://img.shields.io/github/issues/ItaliaDevHub/WinHubX)
+![GitHub Forks](https://img.shields.io/github/forks/ItaliaDevHub/WinHubX)
+![GitHub Stars](https://img.shields.io/github/stars/ItaliaDevHub/WinHubX)
 ![Security Badge](https://img.shields.io/badge/security%20policy-1.0.0-brightgreen)
+![Telegram](https://img.shields.io/badge/Telegram-%40ItaliaDevNetwork-blue?logo=telegram)
 
-### Languages 🖥️
+### Linguaggi 🖥️
 ![PowerShell](https://img.shields.io/badge/PowerShell-87.0%25-blue)
 ![C#](https://img.shields.io/badge/C%23-11.5%25-green)
 ![Batchfile](https://img.shields.io/badge/Batchfile-1.5%25-yellow)
 
-## Press Release 📰
-For more information and dedicated articles, please visit our [Press.md](Press.md) file. Here, you will find coverage from various platforms discussing the features and benefits of WinHubX.
+## Comunicati Stampa 📰
+Per maggiori informazioni e articoli dedicati, visita il nostro file [Press.md](Press.md). Qui troverai articoli che trattano le funzionalità e i vantaggi di WinHubX, scritti da diverse piattaforme.
 
-## Security Policy 🔒
-Your security is our priority! For details on how we handle vulnerabilities and support versions, please refer to our [Security Policy](SECURITY.md). We encourage responsible disclosure and appreciate any contributions to keep our project safe.
+## Politica di Sicurezza 🔒
+La tua sicurezza è la nostra priorità! Per maggiori dettagli su come gestiamo le vulnerabilità e le versioni supportate, consulta la nostra [Politica di Sicurezza](SECURITY.md). Incoraggiamo la divulgazione responsabile e apprezziamo qualsiasi contributo per mantenere il nostro progetto sicuro.
 
-## License 📄
-WinHubX is distributed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html), allowing users the freedom to run, study, share, and modify the software.
+## Licenza 📄
+WinHubX è distribuito sotto la [Licenza Pubblica Generale GNU v3.0](https://www.gnu.org/licenses/gpl-3.0.html), che consente agli utenti di eseguire, studiare, condividere e modificare il software.
 
-## Contacts 📞
-For further details and updates, feel free to visit our [GitHub repository](https://github.com/Italian-Developer/WinHubX). We look forward to your feedback and contributions! 🌍
+## Contatti 📞
+Per ulteriori dettagli e aggiornamenti, visita il nostro [repository GitHub](https://github.com/ItaliaDevHub/WinHubX) e il nostro [canale Telegram - ItaliaDevNetwork](https://t.me/ItaliaDevNetwork). Siamo ansiosi di ricevere il tuo feedback e i tuoi contributi! 🌍
 
-## Additional Resources 📚
-- [Code of Conduct](CODE_OF_CONDUCT.md)
-- [Contributing Guidelines](CONTRIBUTING.md)
+## Risorse Aggiuntive 📚
+- [Codice di Condotta](CODE_OF_CONDUCT.md)
+- [Linee Guida per i Contributi](CONTRIBUTING.md)
 - [FAQ](Faq.md)
-- [Support](Support.md)
-- [Troubleshooting Guide](Troubleshooting.md)
+- [Supporto](Support.md)
+- [Guida alla Risoluzione dei Problemi](Troubleshooting.md)
