@@ -1,28 +1,28 @@
-# Security Policy 🔒
+# Politica di Sicurezza 🔒
 
-## Supported Versions
+## Versioni Supportate
 
-This section informs users about which versions of our project are currently supported with security updates.
+Questa sezione informa gli utenti sulle versioni del nostro progetto attualmente supportate con aggiornamenti di sicurezza.
 
-| Version   | Supported          |
-| --------- | ------------------ |
-| V.2.4.0.2 | :white_check_mark: |
+| Versione   | Supportata          |
+| ---------- | ------------------- |
+| V.2.4.0.2  | :white_check_mark:   |
 
-## Reporting a Vulnerability
+## Segnalazione di una Vulnerabilità
 
-If you would like to report a vulnerability, please follow these steps:
+Se desideri segnalare una vulnerabilità, segui questi passaggi:
 
-1. **Email Reporting**: Send an email to [ItalianDevelopers@proton.me](mailto:ItalianDevelopers@proton.me) including the following information:
-   - A brief description of the vulnerability.
-   - Steps to reproduce the issue.
-   - The impact of the vulnerability.
-   - Any relevant screenshots or code snippets.
+1. **Segnalazione tramite Email**: Invia un'email a [ItalianDevelopers@proton.me](mailto:maule2703@ik.me) includendo le seguenti informazioni:
+   - Una breve descrizione della vulnerabilità.
+   - I passaggi per riprodurre il problema.
+   - L'impatto della vulnerabilità.
+   - Eventuali screenshot o frammenti di codice pertinenti.
 
-2. **Confidentiality**: Your report will be treated confidentially. We appreciate your discretion in not disclosing the vulnerability publicly until it has been addressed.
+2. **Confidenzialità**: La tua segnalazione sarà trattata in modo confidenziale. Apprezziamo la tua discrezione nel non divulgare pubblicamente la vulnerabilità finché non sarà stata affrontata.
 
-### What to Expect
-- **Updates**: We will inform you within **7 business days** upon receiving your report.
-- **Assessment**: Each vulnerability will be evaluated to determine its severity and potential impact.
-- **Acceptance or Decline**: We will update you on the status of the reported vulnerability. If accepted, a fix will be scheduled in a security update. If declined, we will provide a detailed explanation of the reason.
+### Cosa Aspettarsi
+- **Aggiornamenti**: Ti informeremo entro **7 giorni lavorativi** dalla ricezione della tua segnalazione.
+- **Valutazione**: Ogni vulnerabilità verrà valutata per determinarne la gravità e l'impatto potenziale.
+- **Accettazione o Rifiuto**: Ti forniremo aggiornamenti sullo stato della vulnerabilità segnalata. Se accettata, verrà pianificata una correzione in un aggiornamento di sicurezza. Se rifiutata, forniremo una spiegazione dettagliata del motivo.
 
-Your security and that of our community are our top priorities. Thank you for your contribution to keeping the project safe! 🙏
+La tua sicurezza e quella della nostra comunità sono la nostra massima priorità. Grazie per il tuo contributo a mantenere il progetto sicuro! 🙏
