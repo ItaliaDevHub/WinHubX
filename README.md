@@ -33,7 +33,6 @@ Per ulteriori dettagli e aggiornamenti, visita il nostro [repository GitHub](htt
 
 ## Risorse Aggiuntive 📚
 - [Codice di Condotta](CODE_OF_CONDUCT.md)
-- [Linee Guida per i Contributi](CONTRIBUTING.md)
 - [FAQ](Faq.md)
 - [Supporto](Support.md)
 - [Guida alla Risoluzione dei Problemi](Troubleshooting.md)
