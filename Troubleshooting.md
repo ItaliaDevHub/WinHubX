@@ -1,22 +1,22 @@
-# Troubleshooting Guide 🛠️
+# Guida alla Risoluzione dei Problemi 🛠️
 
-## Common Issues 🔧
+## Problemi Comuni 🔧
 
-### Issue 1: Application Won't Start 🚫
-- **Permissions**: Ensure that you have the necessary permissions to run the executable. Right-click on the application and select "Run as administrator."
-- **Antivirus**: Check if your antivirus software is blocking the application. You may need to whitelist the executable in your antivirus settings.
+### Problema 1: L'applicazione non si avvia 🚫
+- **Permessi**: Assicurati di avere i permessi necessari per eseguire il file eseguibile. Fai clic destro sull'applicazione e seleziona "Esegui come amministratore".
+- **Antivirus**: Verifica se il tuo software antivirus sta bloccando l'applicazione. Potrebbe essere necessario aggiungere l'eseguibile alla lista bianca nelle impostazioni del tuo antivirus.
 
-### Issue 2: Download Fails 📥
-- **Internet Connection**: Verify that you have a stable and active internet connection. Try reconnecting to your network or switching to a different connection.
-- **Firewall**: Temporarily disable your firewall to see if it resolves the issue. If successful, consider configuring your firewall settings to allow the application.
+### Problema 2: Download non riuscito 📥
+- **Connessione Internet**: Verifica di avere una connessione internet stabile e attiva. Prova a riconnetterti alla rete o a cambiare connessione.
+- **Firewall**: Disabilita temporaneamente il firewall per vedere se il problema si risolve. Se funziona, considera di configurare le impostazioni del firewall per consentire l'applicazione.
 
-### Issue 3: Performance Issues ⚙️
-- **System Resources**: Ensure that your system meets the minimum requirements for running the application. Close unnecessary background applications to free up resources.
-- **Updates**: Check if there are any updates available for the application that might improve performance.
+### Problema 3: Problemi di prestazioni ⚙️
+- **Risorse di sistema**: Assicurati che il tuo sistema soddisfi i requisiti minimi per eseguire l'applicazione. Chiudi le applicazioni in background non necessarie per liberare risorse.
+- **Aggiornamenti**: Verifica se ci sono aggiornamenti disponibili per l'applicazione che potrebbero migliorare le prestazioni.
 
-### Issue 4: Unexpected Crashes 💥
-- **Logs**: Check application logs for any error messages that could help identify the cause of the crash. Refer to the log files located in the installation directory.
-- **Reinstall**: If the problem persists, try uninstalling and then reinstalling the application to ensure a clean installation.
+### Problema 4: Crashes imprevisti 💥
+- **Log**: Controlla i log dell'applicazione per eventuali messaggi di errore che potrebbero aiutare a identificare la causa del crash. Consulta i file di log situati nella directory di installazione.
+- **Reinstallazione**: Se il problema persiste, prova a disinstallare e poi reinstallare l'applicazione per assicurarti che l'installazione sia pulita.
 
-## Need Further Assistance? 📞
-If you encounter unresolved issues, please reach out to us via the [SUPPORT.md](SUPPORT.md) file for additional help and support.
+## Hai bisogno di ulteriore assistenza? 📞
+Se incontri problemi irrisolti, contattaci tramite il file [SUPPORT.md](SUPPORT.md) per ricevere assistenza e supporto aggiuntivo.
