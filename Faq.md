@@ -1,13 +1,13 @@
-# Frequently Asked Questions (FAQ)
+# Domande Frequenti (FAQ)
 
-## Q1: How do I install WinHubX?
-A: You can download the portable version of WinHubX from our [releases page](https://github.com/Italian-Developer/WinHubX/releases).
+## D1: Come posso installare WinHubX?
+R: Puoi scaricare la versione portatile di WinHubX dalla nostra [pagina delle release](https://github.com/ItaliaDevHub/WinHubX/releases).
 
-## Q2: What features does WinHubX offer?
-A: WinHubX allows you to download ISO files for various versions of Windows and install Microsoft Office. For a complete list of features, check out the [README.md](README.md).
+## D2: Quali funzionalità offre WinHubX?
+R: WinHubX ti consente di scaricare file ISO per varie versioni di Windows e di installare Microsoft Office. Per un elenco completo delle funzionalità, consulta il [README.md](README.md).
 
-## Q3: How can I report a bug or issue?
-A: You can report issues directly on our [GitHub Issues page](https://github.com/Italian-Developer/WinHubX/issues).
+## D3: Come posso segnalare un bug o un problema?
+R: Puoi segnalare problemi direttamente sulla nostra [pagina Issues di GitHub](https://github.com/ItaliaDevHub/WinHubX/issues).
 
-## Q4: Can I contribute to WinHubX?
-A: Absolutely! Please refer to our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute.
+## D4: Posso contribuire a WinHubX?
+R: Assolutamente! Consulta il nostro [CONTRIBUTING.md](CONTRIBUTING.md) per le linee guida su come contribuire.
