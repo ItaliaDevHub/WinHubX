@@ -1,11 +1,11 @@
-# Support 🤝
+# Supporto 🤝
 
-If you need assistance with **WinHubX**, please consider the following options:
+Se hai bisogno di assistenza con **WinHubX**, considera le seguenti opzioni:
 
-- **GitHub Issues**: Report bugs or request features on our [Issues page](https://github.com/ItaliaDevHub/WinHubX/issues). We actively monitor this page to address your concerns.
+- **GitHub Issues**: Segnala bug o richiedi funzionalità nella nostra [pagina Issues](https://github.com/ItaliaDevHub/WinHubX/issues). Monitoriamo attivamente questa pagina per risolvere le tue problematiche.
   
-- **Community Support**: Engage with other users and developers in our community forums or chat. Collaborate, share insights, and get help from fellow enthusiasts!
+- **Supporto della Comunità**: Partecipa ai forum o chat della nostra comunità per interagire con altri utenti e sviluppatori. Collabora, condividi intuizioni e ricevi aiuto dai tuoi colleghi appassionati!
 
-- **Direct Contact**: For specific inquiries or urgent matters, you can reach out to join our group [@[DevelopersItalianGroup](https://t.me/ItalianDevGroup)]. Your questions are important to us!
+- **Contatto Diretto**: Per richieste specifiche o questioni urgenti, puoi entrare nel nostro gruppo [@DevelopersItalianGroup](https://t.me/DevelopersItalianGroup). Le tue domande sono importanti per noi!
 
-We aim to respond to all queries within **48 hours**. Thank you for your patience and support! 🙏
+Ci impegniamo a rispondere a tutte le richieste entro **48 ore**. Grazie per la tua pazienza e il supporto! 🙏
