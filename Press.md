@@ -9,4 +9,4 @@
 We extend our heartfelt gratitude to all the websites that have featured us. Your coverage is crucial for the growth of our community and for spreading awareness about WinHubX! 🙏
 
 ## Contact Information
-For further details and updates, please visit our [GitHub repository](https://github.com/Italian-Developer/WinHubX) or reach out to **mrnico98** on [Telegram](https://t.me/mrnico98). 📬
+For further details and updates, please visit our [GitHub repository](https://github.com/ItaliaDevHub/WinHubX) or reach out to **LightYagami28** on [Telegram](https://t.me/LightYagami28). 📬
