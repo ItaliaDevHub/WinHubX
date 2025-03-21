@@ -12,7 +12,7 @@ Questa sezione informa gli utenti sulle versioni del nostro progetto attualmente
 
 Se desideri segnalare una vulnerabilità, segui questi passaggi:
 
-1. **Segnalazione tramite Email**: Invia un'email a [ItalianDevelopers@proton.me](mailto:maule2703@ik.me) includendo le seguenti informazioni:
+1. **Segnalazione tramite Email**: Invia un'email a [maule2703@ik.me](mailto:maule2703@ik.me) includendo le seguenti informazioni:
    - Una breve descrizione della vulnerabilità.
    - I passaggi per riprodurre il problema.
    - L'impatto della vulnerabilità.
