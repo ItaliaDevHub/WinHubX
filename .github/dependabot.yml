@@ -1,9 +1,10 @@
 version: 2
 updates:
   - package-ecosystem: "nuget"
-    directory: "/WinHubX/" 
+    directory: "/WinHubX/"
     schedule:
       interval: "weekly"
     commit-message:
       prefix: "chore(deps)"
     open-pull-requests-limit: 0
+
