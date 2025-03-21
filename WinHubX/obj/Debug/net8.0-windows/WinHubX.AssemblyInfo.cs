@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinHubX")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("2.4.0.8")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c296d91ba2e30b0b9dc88019e6bea0649ae48cf6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+390aa3817756c650532c54a11333f60b4e18f35c")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinHubX")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinHubX")]
 [assembly: System.Reflection.AssemblyVersionAttribute("2.4.0.8")]
