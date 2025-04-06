@@ -1,5 +1,10 @@
 # WinHubX
 
+
+# Indagine da parte del Garante della Privacy
+
+- [GDPR](GDPR.MD)
+
 ## Introduzione 🌟
 WinHubX nasce dall'idea originale di **mrnico98**, un talentuoso programmatore che ha creato uno strumento versatile pensato per ottimizzare e gestire i sistemi Windows. Con la sua visione e competenza, è stato sviluppato inizialmente una soluzione promettente che ha gettato le basi per future evoluzioni.
 
